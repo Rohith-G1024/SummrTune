@@ -1,7 +1,7 @@
 # Changelog
 
 Builds are published here; the source is at
-[Rohith-G1024/Summrtune](https://github.com/Rohith-G1024/Summrtune).
+[Rohith-G1024/SummrTune-Dev](https://github.com/Rohith-G1024/SummrTune-Dev).
 
 Each release describes what the app **does**, rather than what changed — you
 should not have to read the previous entry to understand this one.
